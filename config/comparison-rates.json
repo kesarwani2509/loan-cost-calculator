@@ -1,0 +1,21 @@
+[
+  {
+    "key": "bank_personal",
+    "label": "Bank personal loan",
+    "nominalAnnualRate": 0.12,
+    "note": "Typical public/private bank personal loan (10.5% – 14% p.a.). Reducing balance."
+  },
+  {
+    "key": "shg",
+    "label": "Self-Help Group (SHG) / Priority lending",
+    "nominalAnnualRate": 0.07,
+    "note": "Priority sector / subsidized SHG credit (approx. 7% p.a.)."
+  },
+  {
+    "key": "gold_loan",
+    "label": "Gold loan (bank)",
+    "nominalAnnualRate": 0.095,
+    "note": "Typical secured bank gold loan (8.5% – 11% p.a.)."
+  }
+]
+
