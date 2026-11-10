@@ -209,3 +209,5 @@ supabase/migrations/  # Database schema and RLS
 ## Disclaimer
 
 This project is provided for education and personal understanding. It does not verify the legality of a loan, determine whether a lender is licensed for a specific activity, or replace advice from a qualified financial or legal professional.
+#   l o a n - c o s t - c a l c u l a t o r  
+ 
